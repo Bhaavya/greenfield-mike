@@ -8,3 +8,5 @@ terraform {
     }
   }
 }
+
+# Triggered by VCS push
